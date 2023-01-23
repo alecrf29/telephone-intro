@@ -3,6 +3,9 @@
 Um simples teclado de telefone feito com JavaScript.
 
 
+Este projeto é um dos meus primeiros feitos com Javascript e sua simplicidade é dada por se tratar de uma introdução à linguagem.
+
+
 
 O primeiro passo é criar uma referência (const listaDeTeclas) para poder receber a lista com todas as teclas do Alura Fone, ficando const listaDeTeclas = document.querySelectorAll('input[type=button]').
 
