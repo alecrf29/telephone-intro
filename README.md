@@ -1,6 +1,6 @@
 # telephone
 
-Um simples teclado de telefone feito com JavaScript, junto a uma estrutura HTML e CSS.
+Um simples teclado de telefone feito com JavaScript.
 
 
 
